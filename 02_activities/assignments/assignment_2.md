@@ -12,6 +12,7 @@
       ```
       **Example of good visualization:**
       Link: https://public.tableau.com/app/profile/mcc.rpie/viz/AnnualDegreesandCertificates_16487718324400/Awards
+
       Clarity:
       The stacked bar chart is easy to interpret, with distinct segments and clear labels for annual totals, enabling quick understanding of trends over time.
 
@@ -23,6 +24,7 @@
 
       **Example of bad visualization:**
       Link: https://public.tableau.com/app/profile/erin.otwell/viz/Pollutionpiechart-Tablet/PollutantPieChart-Tablet
+
       Inappropriate Chart Type:
       The pie chart is not ideal for displaying data with multiple categories, as it makes it hard to compare proportions accurately.
 
@@ -43,13 +45,15 @@
     - How could this data visualization have been improved?  
       ```
       **Based on the example of good visualization**
+
       Highlight Key Trends:
       Add annotations or callouts to draw attention to notable insights, such as the peak in awards in 2018–2019 or the declining trend afterward.
 
       Enhance Interactivity:
       Include tooltips that display detailed counts or percentages for each segment when hovered over to make the data more accessible.
       
-      **Based on the example of good visualization**
+      **Based on the example of bad visualization**
+
       Switch to a Bar Chart:
       A bar chart would allow for precise comparisons, as values could be easily displayed and understood.
 
