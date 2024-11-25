@@ -48,16 +48,16 @@
 
       Enhance Interactivity:
       Include tooltips that display detailed counts or percentages for each segment when hovered over to make the data more accessible.
+      
+      **Based on the example of good visualization**
+      Switch to a Bar Chart:
+      A bar chart would allow for precise comparisons, as values could be easily displayed and understood.
 
-     **Based on the example of bad visualization**
-     Switch to a Bar Chart:
-     A bar chart would allow for precise comparisons, as values could be easily displayed and understood.
+      Improve Color Scheme:
+      Use distinct, easily distinguishable colors for each category to enhance readability.
 
-     Improve Color Scheme:
-     Use distinct, easily distinguishable colors for each category to enhance readability.
-
-     Add Labels and Context:
-     Include numerical values or percentages on the chart and provide a title or description that clearly links the "Pollutant type" selection to the data         displayed.
+      Add Labels and Context:
+      Include numerical values or percentages on the chart and provide a title or description that clearly links the "Pollutant type" selection to the data         displayed.
 
 
 
