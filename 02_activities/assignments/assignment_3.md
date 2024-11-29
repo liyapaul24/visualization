@@ -7,14 +7,50 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        **Good Visualization**
+        Link: https://public.tableau.com/app/profile/mcc.rpie/viz/AnnualDegreesandCertificates_16487718324400/Awards
+
+       Accessibility:
+        •	The visualization is easy to read and interact with, features like color scheme options and clear legends are good.
+        •	The tabular data below the chart makes the information accessible to users who prefer numbers over visuals.
+
+        Reproducibility:
+        •	Since the raw numbers are provided, anyone can easily recreate or verify the chart.
+        •	The straightforward design and clear labeling make it easy to interpret the data consistently.
+
+        Equitability:
+        •	The design treats all data categories equally without giving undue focus to any one group.
+        •	By including a variety of categories, it represents all stakeholders fairly.
+
+        
+        **Bad Visualization**
+        Link: https://public.tableau.com/app/profile/erin.otwell/viz/Pollutionpiechart-Tablet/PollutantPieChart-Tablet
+
+        Accessibility:
+        •	The colors are hard to distinguish, especially for people with color blindness.
+        •	It doesn’t provide numbers or percentages, making it difficult to understand at a glance.
+        Reproducibility:
+        •	Without clear data or values, it’s impossible to recreate or verify the chart.
+        •	There’s no explanation of how the data was collected or calculated.
+        Equitability:
+        •	The chart is confusing and may misrepresent the proportions of pollutants, leading to biased conclusions.
+        •	It doesn’t provide enough detail to ensure everyone can interpret it accurately.
+
 
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+        **Good Visualization**
+        Accessibility: Add textual descriptions for interactive features to improve usability for screen readers.
+        Reproducibility: Provide a downloadable dataset to enable easier data verification and replication.
+        Equity: Use a legend design that highlights all categories equally, ensuring smaller categories are not overlooked.
+
+        **Bad Visualization**
+        Accessibility: Use distinct colors with high contrast and add numerical labels or percentages directly on the chart.
+        Reproducibility: Include a data table or a clear source link to enable verification and replication of the data.
+        Equity: Replace the pie chart with a bar chart for better proportional clarity and to avoid misrepresentation.
 
 
 
