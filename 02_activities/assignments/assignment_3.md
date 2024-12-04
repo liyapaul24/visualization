@@ -10,31 +10,46 @@
         **Good Visualization**
         Link: https://public.tableau.com/app/profile/mcc.rpie/viz/AnnualDegreesandCertificates_16487718324400/Awards
 
-       Accessibility:
-        •	The visualization is easy to read and interact with, features like color scheme options and clear legends are good.
-        •	The tabular data below the chart makes the information accessible to users who prefer numbers over visuals.
+        Accessibility:
+
+        1.The color-coded legend is clear and easy to match with the chart bars.
+        2.Hover and filter options improve user interaction for deeper exploration.
+        3.The table below provides additional data for users who may struggle with visual interpretation.
 
         Reproducibility:
-        •	Since the raw numbers are provided, anyone can easily recreate or verify the chart.
-        •	The straightforward design and clear labeling make it easy to interpret the data consistently.
+
+        1.Data sources are cited, making it easier to verify the information.
+        2.The clean bar chart design ensures the visualization can be replicated with tools like Tableau or Excel.
+        3.Exact data values are available in the accompanying table, supporting accurate reproduction.
 
         Equitability:
-        •	The design treats all data categories equally without giving undue focus to any one group.
-        •	By including a variety of categories, it represents all stakeholders fairly.
+
+        1.The visualization includes various award types, providing a balanced representation of academic achievements.
+        2.The user-friendly interface ensures access to diverse audiences, including students and stakeholders.
+        3.There’s no bias in data presentation; all categories are given equal visual emphasis.
+
 
         
         **Bad Visualization**
         Link: https://public.tableau.com/app/profile/erin.otwell/viz/Pollutionpiechart-Tablet/PollutantPieChart-Tablet
 
-        Accessibility:
-        •	The colors are hard to distinguish, especially for people with color blindness.
-        •	It doesn’t provide numbers or percentages, making it difficult to understand at a glance.
-        Reproducibility:
-        •	Without clear data or values, it’s impossible to recreate or verify the chart.
-        •	There’s no explanation of how the data was collected or calculated.
-        Equitability:
-        •	The chart is confusing and may misrepresent the proportions of pollutants, leading to biased conclusions.
-        •	It doesn’t provide enough detail to ensure everyone can interpret it accurately.
+        Accessibility
+
+        1.Heavy reliance on color makes it challenging for users to interpret.
+        2.Lack of numeric labels on segments limits clarity for precise understanding.
+        3.The interactive elements are unclear, potentially excluding less tech-savvy users.
+
+        Reproducibility
+
+        1.The absence of detailed source information hinders accurate recreation.
+        2.The vague design and lack of labeled values make it difficult to extract the exact data.
+        3.Poor chart design reduces reproducibility with accuracy.
+
+        Equity
+
+        1.The chart does not explain the significance of pollutants or why they matter, which may exclude users unfamiliar with the topic.
+        2.Lack of differentiation beyond color may difficult to audiences with visual impairments.
+        3.Equal weighting of pollutant sources implies an inaccurate sense of their relative importance.
 
 
 
@@ -43,14 +58,14 @@
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         **Good Visualization**
-        Accessibility: Add textual descriptions for interactive features to improve usability for screen readers.
-        Reproducibility: Provide a downloadable dataset to enable easier data verification and replication.
-        Equity: Use a legend design that highlights all categories equally, ensuring smaller categories are not overlooked.
+        1.Accessibility: Add textual descriptions for interactive features to improve usability for screen readers.
+        2.Reproducibility: Provide a downloadable dataset to enable easier data verification and replication.
+        3.Equity: Use a legend design that highlights all categories equally, ensuring smaller categories are not overlooked.
 
         **Bad Visualization**
-        Accessibility: Use distinct colors with high contrast and add numerical labels or percentages directly on the chart.
-        Reproducibility: Include a data table or a clear source link to enable verification and replication of the data.
-        Equity: Replace the pie chart with a bar chart for better proportional clarity and to avoid misrepresentation.
+        1.Accessibility: Use distinct colors with high contrast and add numerical labels or percentages directly on the chart.
+        2.Reproducibility: Include a data table or a clear source link to enable verification and replication of the data.
+        3.Equity: Replace the pie chart with a bar chart for better proportional clarity and to avoid misrepresentation.
 
 
 
