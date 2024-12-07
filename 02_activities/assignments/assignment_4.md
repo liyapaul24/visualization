@@ -6,24 +6,55 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
+
+Note: The selected Data set is - ServiceOntario wait times (in-person)(https://data.ontario.ca/dataset/serviceontario-wait-times-in-person) which is selected from [Ontario’s Open Data Catalogue](https://data.ontario.ca/). All the required documents including python code, excel files are added in folder 'Assignment-4 documents' 
+
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    The data visualization is created using python's Matplotlib library to create the bar plot visualization. 
 
     > Who is your intended audience? 
+    The intended audience are:
+    Policy Makers and Administrators: To assess the performance of publicly and privately operated Service Ontario centers.
+    General Public: To increase awareness of wait times and service efficiency.
+    Data Analysts: To showcase insights from the dataset for improvements
     
     > What information or message are you trying to convey with your visualization? 
+    The visualization aims to convey:
+    A comparison of yearly average wait times (percentage of customers who waited less than 20 minutes) between publicly and privately operated Service Ontario centers.
+    Key Insight: Whether public or private centers consistently perform better in terms of shorter wait times.
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    Substantive Principles: Focused on presenting accurate, summarized data (yearly averages), and also ensured that all relevant data was included without overwhelming the audience with raw values.
+    Perceptual Principles: Used distinct colors to differentiate the two types of centers clearly, Added data labels to the top of the bars to aid quick comprehension.
+    Aesthetic Principles: Balanced the plot by giving equal visual weight to public and private data and also used a clean layout with a descriptive title and axis labels for clarity.
+
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    Reproducibility in Python: I ensured all steps were performed programmatically in Python, from cleaning the dataset to generating the plot. Dependencies, like Matplotlib and Pandas, were documented in the environment file for reproducibility.
+    Excel Export: I exported the cleaned dataset to an Excel file with clear sheet names, enabling easy reproduction of the visualizations using Excel or other tools.
+    Impact of Non-Reproducibility:If the visualization tool were non-reproducible, it would reduce trust in the results and limit opportunities for others to verify or build upon the analysis.
     
     > How did you ensure that your data visualization is accessible?  
+    Used readable fonts and a clear title to ensure the plot is understandable. Applied color coding with distinguishable colors and added data labels to the bars.
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
+    > Who are the individuals and communities who might be impacted by your visualization? 
+    Service Ontario Staff: Insights from this visualization might highlight areas for operational improvement.
+    General Public: Increased transparency might help customers decide which type of center to visit for shorter wait times. 
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    Included:
+    Yearly Average Wait Times, to give a high-level summary and make the data comparable across time and added Public and Private Center Data together for a side-by-side comparison
+    Excluded:
+    Detailed monthly data to avoid cluttering the visualization and overwhelming the audience.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    The "underwater labour" included:
+    Data Cleaning: Filled the missing records with the means value of the centre and also Aggregated monthly data into yearly averages for simplification.
+    Preprocessing: data validated seprately as public and private datasets.
+    Coding: Written Python scripts for data analysis and visualization. Debugging and refining the visualization code.
+    Testing: Ensuring the visualization was legible and effective across different screen sizes and resolutions.
+    Exporting Data: Creating a user-friendly Excel file to facilitate additional analysis in alternative tools.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
