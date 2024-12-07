@@ -11,13 +11,13 @@ Note: The selected Data set is - ServiceOntario wait times (in-person)(https://d
 
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-    The data visualization is created using python's Matplotlib library to create the bar plot visualization. 
+The data visualization is created using python's Matplotlib library to create the bar plot visualization. 
 
     > Who is your intended audience? 
-    The intended audience are:
-    Policy Makers and Administrators: To assess the performance of publicly and privately operated Service Ontario centers.
-    General Public: To increase awareness of wait times and service efficiency.
-    Data Analysts: To showcase insights from the dataset for improvements
+The intended audience are:
+Policy Makers and Administrators: To assess the performance of publicly and privately operated Service Ontario centers.
+General Public: To increase awareness of wait times and service efficiency.
+Data Analysts: To showcase insights from the dataset for improvements
     
     > What information or message are you trying to convey with your visualization? 
     The visualization aims to convey:
