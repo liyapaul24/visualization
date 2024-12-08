@@ -9,15 +9,10 @@
 
 Note: The selected Data set is - ServiceOntario wait times (in-person)(https://data.ontario.ca/dataset/serviceontario-wait-times-in-person) which is selected from [Ontario’s Open Data Catalogue](https://data.ontario.ca/). All the required documents including python code, excel files are added in folder 'Assignment-4 documents' 
 
-<<<<<<< HEAD
-- For each visualization, describe and justify: 
+For each visualization, describe and justify:
 
 1st Visualization
 
-=======
-- For each visualization, describe and justify:
-  
->>>>>>> dceb3094b64a38e1a916b4d1f18d60f926d4d18b
     > What software did you use to create your data visualization?
     The data visualization is created using python's Matplotlib library to create the bar plot visualization. 
 
